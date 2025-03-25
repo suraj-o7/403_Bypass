@@ -26,6 +26,6 @@ pip install -r requirements.txt
 
 # Usage
 
-1. Single URL Scan:python3 403_bypass.py  https://target.com/passwd
-2. Use Proxy for Anonymity:python3 403_bypass.py -u https://target.com --proxy http://127.0.0.1:8080
+1. Single URL Scan:- python3 403_bypass.py  https://target.com/passwd
+2. Use Proxy for Anonymity:- python3 403_bypass.py -u https://target.com --proxy http://127.0.0.1:8080
 
